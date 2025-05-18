@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+minio
+redis
+opencv-python-headless
+numpy
+python-multipart
