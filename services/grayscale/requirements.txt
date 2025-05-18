@@ -1,3 +1,0 @@
-minio
-redis
-opencv-python-headless
